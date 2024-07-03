@@ -1,7 +1,7 @@
 # Dokjolly0's Profile
 
 <div style="text-align: center; background-color: #2d2d2d; padding: 20px;">
-  <img src="https://github.com/Dokjolly0/Dokjolly0/blob/main/StainsGate1.png" alt="Banner" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="https://github.com/Dokjolly0/Dokjolly0/blob/main/StainsGate1.png" alt="Banner" style="width: 100%; max-width: 800px; height: 200px;">
 </div>
 
 ## About Me
