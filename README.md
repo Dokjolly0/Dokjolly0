@@ -11,7 +11,7 @@ Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione.
 - **Strumenti**: Git, Docker, VS Code, GitHub
 
 ## Progetti
-### Progetto 1: [Nome del Progetto 1](https://github.com/Dokjolly0/progetto-1)
+### Progetto 1: [Repo its](https://github.com/Dokjolly0/ITS)
 Descrizione breve del progetto 1. Ad esempio, "Un'applicazione web per gestire liste di cose da fare".
 
 ### Progetto 2: [Nome del Progetto 2](https://github.com/Dokjolly0/progetto-2)
