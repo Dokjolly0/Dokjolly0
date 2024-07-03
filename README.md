@@ -7,7 +7,7 @@ Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione.
 
 ## Competenze
 - **Linguaggi di programmazione**: Python, JavaScript, HTML, CSS
-- **Frameworks e Librerie**: React, Node.js, Express
+- **Frameworks e Librerie**: Node.js, Express, Angular
 - **Strumenti**: Git, VS Code, GitHub
 
 ## Progetti
