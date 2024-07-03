@@ -12,13 +12,7 @@ Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione.
 
 ## Progetti
 ### Progetto 1: [Repo its](https://github.com/Dokjolly0/ITS)
-Descrizione breve del progetto 1. Ad esempio, "Un'applicazione web per gestire liste di cose da fare".
-
-### Progetto 2: [Nome del Progetto 2](https://github.com/Dokjolly0/progetto-2)
-Descrizione breve del progetto 2. Ad esempio, "Una libreria JavaScript per la manipolazione del DOM".
-
-### Progetto 3: [Nome del Progetto 3](https://github.com/Dokjolly0/progetto-3)
-Descrizione breve del progetto 3. Ad esempio, "Un bot per automatizzare compiti su Discord".
+Questa repo è la repo ufficiale del corso FullStack Web Developer
 
 ## Contribuzioni
 - [Nome del Progetto Contribuito 1](https://github.com/progetto-contribuito-1)
