@@ -6,10 +6,9 @@
 Hello! I'm Dokjolly0, a developer passionate about technology and innovation. I love working on projects that combine creativity and logic to solve real-world problems.
 
 ## Skills
-- **Basic skill**: HTML, CSS
-- **Programming Languages**: Python, JavaScript/TypeScript, C#, C++, Java
-- **Frameworks and Libraries**: Node.js, Angular
-- **Tools**: Git, VS Code, Copilot
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks and Libraries**: Node.js, Express, Angular
+- **Tools**: Git, VS Code, GitHub
 
 ## Projects
 ### Project 1: [ITS Repo](https://github.com/Dokjolly0/ITS)
@@ -42,8 +41,6 @@ This is the official repository for the FullStack Web Developer course.
 
 ## Most Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/Dokjolly0/repo/pull/123) in [Dokjolly0/repo](https://github.com/Dokjolly0/repo)
-2. 🗣 Commented on [#456](https://github.com/Dokjolly0/repo/issues/456) in [Dokjolly0/repo](https://github.com/Dokjolly0/repo)
 <!--END_SECTION:activity-->
 
 ## Holopin Board
