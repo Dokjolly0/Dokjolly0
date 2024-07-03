@@ -1,34 +1,34 @@
-# Profilo di Dokjolly0
+# Dokjolly0's Profile
 
-![Banner](https://github.com/Dokjolly0/Dokjolly0/blob/main/Git%20banner.jpg)
+![Banner](https://github.com/Dokjolly0/Dokjolly0/blob/main/StainsGate1.png)
 
-## Chi sono
-Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione. Amo lavorare su progetti che combinano creatività e logica per risolvere problemi reali.
+## About Me
+Hello! I'm Dokjolly0, a developer passionate about technology and innovation. I love working on projects that combine creativity and logic to solve real-world problems.
 
-## Competenze
-- **Linguaggi di programmazione**: Python, JavaScript, HTML, CSS
-- **Frameworks e Librerie**: Node.js, Express, Angular
-- **Strumenti**: Git, VS Code, GitHub
+## Skills
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks and Libraries**: Node.js, Express, Angular
+- **Tools**: Git, VS Code, GitHub
 
-## Progetti
-### Progetto 1: [Repo its](https://github.com/Dokjolly0/ITS)
-Questa repo è la repo ufficiale del corso FullStack Web Developer
+## Projects
+### Project 1: [ITS Repo](https://github.com/Dokjolly0/ITS)
+This is the official repository for the FullStack Web Developer course.
 
 <!--
-## Contribuzioni
-- [Nome del Progetto Contribuito 1](https://github.com/progetto-contribuito-1)
-- [Nome del Progetto Contribuito 2](https://github.com/progetto-contribuito-2)
+## Contributions
+- [Project Contribution 1](https://github.com/progetto-contribuito-1)
+- [Project Contribution 2](https://github.com/progetto-contribuito-2)
 -->
 
-## Contatti
-- [LinkedIn](https://www.linkedin.com/in/tuo-nome-utente/)
-- [Twitter](https://twitter.com/tuo-nome-utente)
-- [Email](mailto:tuo-email@example.com)
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/your-username/)
+- [Twitter](https://twitter.com/your-username)
+- [Email](mailto:your-email@example.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dokjolly0&style=flat-square)
 
-## Statistiche GitHub
+## GitHub Statistics
 ![Dokjolly0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&theme=radical)
 
-## Top Langs
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&layout=compact&theme=radical)
