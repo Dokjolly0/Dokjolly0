@@ -1,6 +1,6 @@
 # Benvenuti nel mio profilo GitHub!
 
-![Banner]([https://github.com/Dokjolly0/Dokjolly0/blob/main/Banner1Genshin.jpg?text=Benvenuto+nel+profilo+di+Dokjolly0!)
+![Banner](https://github.com/Dokjolly0/Dokjolly0/blob/main/Banner1Genshin.jpg)
 
 ## Chi sono
 Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione. Amo lavorare su progetti che combinano creatività e logica per risolvere problemi reali.
@@ -36,4 +36,3 @@ Descrizione breve del progetto 3. Ad esempio, "Un bot per automatizzare compiti 
 
 ## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&layout=compact&theme=radical)
-
