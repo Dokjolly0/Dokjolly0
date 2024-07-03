@@ -14,9 +14,11 @@ Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione.
 ### Progetto 1: [Repo its](https://github.com/Dokjolly0/ITS)
 Questa repo è la repo ufficiale del corso FullStack Web Developer
 
+<!--
 ## Contribuzioni
 - [Nome del Progetto Contribuito 1](https://github.com/progetto-contribuito-1)
 - [Nome del Progetto Contribuito 2](https://github.com/progetto-contribuito-2)
+-->
 
 ## Contatti
 - [LinkedIn](https://www.linkedin.com/in/tuo-nome-utente/)
