@@ -1,6 +1,6 @@
 # Profilo di Dokjolly0
 
-![Banner](https://github.com/Dokjolly0/Dokjolly0/blob/main/Banner1Genshin.jpg)
+![Banner](https://github.com/Dokjolly0/Dokjolly0/blob/main/Git%20banner.jpg)
 
 ## Chi sono
 Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione. Amo lavorare su progetti che combinano creatività e logica per risolvere problemi reali.
