@@ -1,6 +1,6 @@
 # Benvenuti nel mio profilo GitHub!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
+![Banner]([https://via.placeholder.com/800x200.png](https://media.licdn.com/dms/image/D4E16AQGpCQ5bbQ5LCA/profile-displaybackgroundimage-shrink_200_800/0/1705288925336?e=2147483647&v=beta&t=MUzupoVL_y0gvWGcbnb5gcFjFuctpw_9qWgoPvAXv3I)?text=Benvenuto+nel+profilo+di+Dokjolly0!)
 
 ## Chi sono
 Ciao! Sono Dokjolly0, uno sviluppatore appassionato di tecnologia e innovazione. Amo lavorare su progetti che combinano creatività e logica per risolvere problemi reali.
