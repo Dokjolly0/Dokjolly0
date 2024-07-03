@@ -6,9 +6,10 @@
 Hello! I'm Dokjolly0, a developer passionate about technology and innovation. I love working on projects that combine creativity and logic to solve real-world problems.
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks and Libraries**: Node.js, Express, Angular
-- **Tools**: Git, VS Code, GitHub
+- **Basic skill**: HTML, CSS
+- **Programming Languages**: Python, JavaScript/TypeScript, C#, C++, Java
+- **Frameworks and Libraries**: Node.js, Angular
+- **Tools**: Git, VS Code, Copilot
 
 ## Projects
 ### Project 1: [ITS Repo](https://github.com/Dokjolly0/ITS)
