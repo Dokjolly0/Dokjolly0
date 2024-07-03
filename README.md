@@ -1,6 +1,8 @@
 # Dokjolly0's Profile
 
-![Banner](https://github.com/Dokjolly0/Dokjolly0/blob/main/StainsGate1.png)
+<div style="text-align: center; background-color: #2d2d2d; padding: 20px;">
+  <img src="https://github.com/Dokjolly0/Dokjolly0/blob/main/StainsGate1.png" alt="Banner" style="width: 100%; max-width: 800px; height: auto;">
+</div>
 
 ## About Me
 Hello! I'm Dokjolly0, a developer passionate about technology and innovation. I love working on projects that combine creativity and logic to solve real-world problems.
