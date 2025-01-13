@@ -85,12 +85,12 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&count_private=true&hide_border=true" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&count_private=true&hide_border=false" 
          style="width: 100%; height: auto; object-fit: contain;" />
   </div>
   <!-- Top Languages -->
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&hide_border=true&layout=compact" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&hide_border=false&layout=compact" 
          style="width: 100%; height: auto; object-fit: contain;" />
   </div>
 </div>
