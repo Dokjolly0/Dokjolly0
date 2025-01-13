@@ -82,15 +82,26 @@
 
 ## Github Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&count_private=true&hide_border=true" 
-       style="flex: 1; min-width: 300px; max-width: 400px; height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&hide_border=true&layout=compact" 
-       style="flex: 1; min-width: 300px; max-width: 400px; height: 200px; object-fit: contain;" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&count_private=true&hide_border=true" 
+         style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
+  <!-- Top Languages -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&hide_border=true&layout=compact" 
+         style="width: 100%; height: auto; object-fit: contain;" />
+  </div>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dokjolly0" alt="Dokjolly0" /></a> </p>
+<!-- Trophies -->
+<div align="center" style="margin-top: 20px; display: flex; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dokjolly0" 
+       style="width: 100%; max-width: 800px; object-fit: contain;" />
+</div>
 
+<!-- Snake -->
 <p align="center"><img src="https://github.com/Dokjolly0/Dokjolly0/blob/output/github-contribution-grid-snake-dark.svg" alt="Dokjolly0" /></p>
 
 <br/>
