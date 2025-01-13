@@ -83,11 +83,10 @@
 ## Github Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&count_private=true&hide_border=true" style="flex: 1; min-width: 300px; max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&hide_border=true&layout=compact" style="flex: 1; min-width: 300px; max-width: 400px;" />
-</div>
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dokjolly0&hide_border=true" style="max-width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dokjolly0&show_icons=true&count_private=true&hide_border=true" 
+       style="flex: 1; min-width: 300px; max-width: 400px; height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokjolly0&hide_border=true&layout=compact" 
+       style="flex: 1; min-width: 300px; max-width: 400px; height: 200px; object-fit: contain;" />
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dokjolly0" alt="Dokjolly0" /></a> </p>
